@@ -22,6 +22,7 @@
     'depends': [
         'l10n_latam_base',
         'l10n_latam_invoice_document',
+        'l10n_pe',
     ],
 
     # always loaded
